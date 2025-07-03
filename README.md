@@ -1,6 +1,7 @@
 # CleanCode_Study
 
-클린코드 책을 읽고 정리 하였습니다.
+  클린코드 책을 읽고 정리하였습니다.
+  
 ---
 
 책 정보 : https://www.yes24.com/product/goods/11681152<br>   
